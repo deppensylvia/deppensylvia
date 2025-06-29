@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @deppensylvia
-- 👀 I’m a full stack web app development with a interdisciplinary background in neurobiology, psychology, data science, education, and business.
+- 👀 I’m a fullstack software engineer with a interdisciplinary background in neurobiology, psychology, data science, education, and business, and experience in the biotech, nonprofit, and renewable energy fields.
 - 🌱 I’m currently learning cloud and ai engineering. I am working on getting the AWS Solutions Architect Associates Certification and studying deep learning while I explore various aspects of AI/ML to find my niche.
 - 💞️ I’m interested in arts, crafts, dance, video games, fitness, and health.
