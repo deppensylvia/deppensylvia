@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @deppensylvia
-- 👀 I’m interested in...
-- 🌱 I’m currently learning...
-- 💞️ I’m interested in...
-- 📫 How to reach me...
-
-<!---
-deppensylvia/deppensylvia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a full stack web app development with a interdisciplinary background in neurobiology, psychology, data science, education, and business.
+- 🌱 I’m currently learning cloud and ai engineering. I am working on getting the AWS Solutions Architect Associates Certification and studying deep learning while I explore various aspects of AI/ML to find my niche.
+- 💞️ I’m interested in arts, crafts, dance, video games, fitness, and health.
